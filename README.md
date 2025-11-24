@@ -1,7 +1,7 @@
 🌤️📈 Weather & Finance ETL Dashboard
 A dynamic ETL and data analysis system that fetches real-time weather and financial data from third-party APIs, processes the data, and provides interactive visualizations through a professional Streamlit dashboard.
 
-🚀 Live Demo URL: (https://weatherfinancedashboard.streamlit.app/)
+🚀 Live Demo URL: https://weatherfinancedashboard.streamlit.app/
 
 📖 Overview
 This project demonstrates a complete ETL (Extract, Transform, Load) pipeline with real-time data processing, interactive visualizations, and a modern web interface. Built for hackathon demonstration with production-ready features.
@@ -48,7 +48,7 @@ Responsive design works on all devices
 
 🎯 Quick Start
 Using the Live Demo
-Visit: https://hackathontask.streamlit.app/
+Visit: https://weatherfinancedashboard.streamlit.app/
 
 Navigate using the sidebar
 
@@ -56,7 +56,7 @@ Try these examples:
 
 Weather: Enter "London", "New York", or "Tokyo"
 
-Finance: Try "AAPL", "MSFT", "TSLA", "GOOGL"
+Finance: Try "AAPL", "MSFT", "TSLA", "GOOGL", "AMZN"
 
 Local Development
 bash
